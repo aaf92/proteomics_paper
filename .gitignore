@@ -1,0 +1,10 @@
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.DS_Store
+# large outputs; uncomment as needed
+# *.pdf
+# *.svg
+# *.png
+# *.h5ad
+# *.rds

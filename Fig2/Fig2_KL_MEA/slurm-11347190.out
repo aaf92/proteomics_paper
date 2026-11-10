@@ -1,0 +1,103 @@
+==== Analysis Start: Fri Sep 18 01:58:49 PM EDT 2026 ====
+Sites before explode: 21043, after: 25342
+165 entries were omitted due to invalid amino acids or characters.
+Use the 'omited_entries' attribute to view dropped enteries due to invalid sequences.
+Scoring 24686 ser_thr substrates
+Calculating percentile for 24686 ser_thr substrates
+Scoring 491 tyrosine substrates
+Calculating percentile for 491 tyrosine substrates
+
+=== ser_thr ===
+  0: sign.logP.IL6_20min_over_IL10_20min
+165 entries were omitted due to invalid amino acids or characters.
+Use the 'omited_entries' attribute to view dropped enteries due to invalid sequences.
+
+Generating kinase-substrates sets
+  1: sign.logP.IL6_45min_over_IL10_45min
+165 entries were omitted due to invalid amino acids or characters.
+Use the 'omited_entries' attribute to view dropped enteries due to invalid sequences.
+
+Generating kinase-substrates sets
+  2: sign.logP.IL6_90min_over_IL10_90min
+165 entries were omitted due to invalid amino acids or characters.
+Use the 'omited_entries' attribute to view dropped enteries due to invalid sequences.
+
+Generating kinase-substrates sets
+  3: sign.logP.IL6_20min_over_0min
+165 entries were omitted due to invalid amino acids or characters.
+Use the 'omited_entries' attribute to view dropped enteries due to invalid sequences.
+
+Generating kinase-substrates sets
+  4: sign.logP.IL6_45min_over_0min
+165 entries were omitted due to invalid amino acids or characters.
+Use the 'omited_entries' attribute to view dropped enteries due to invalid sequences.
+
+Generating kinase-substrates sets
+  5: sign.logP.IL6_90min_over_0min
+165 entries were omitted due to invalid amino acids or characters.
+Use the 'omited_entries' attribute to view dropped enteries due to invalid sequences.
+
+Generating kinase-substrates sets
+  6: sign.logP.IL10_20min_over_0min
+165 entries were omitted due to invalid amino acids or characters.
+Use the 'omited_entries' attribute to view dropped enteries due to invalid sequences.
+
+Generating kinase-substrates sets
+  7: sign.logP.IL10_45min_over_0min
+165 entries were omitted due to invalid amino acids or characters.
+Use the 'omited_entries' attribute to view dropped enteries due to invalid sequences.
+
+Generating kinase-substrates sets
+  8: sign.logP.IL10_90min_over_0min
+165 entries were omitted due to invalid amino acids or characters.
+Use the 'omited_entries' attribute to view dropped enteries due to invalid sequences.
+
+Generating kinase-substrates sets
+
+=== tyrosine ===
+  0: sign.logP.IL6_20min_over_IL10_20min
+165 entries were omitted due to invalid amino acids or characters.
+Use the 'omited_entries' attribute to view dropped enteries due to invalid sequences.
+
+Generating kinase-substrates sets
+  1: sign.logP.IL6_45min_over_IL10_45min
+165 entries were omitted due to invalid amino acids or characters.
+Use the 'omited_entries' attribute to view dropped enteries due to invalid sequences.
+
+Generating kinase-substrates sets
+  2: sign.logP.IL6_90min_over_IL10_90min
+165 entries were omitted due to invalid amino acids or characters.
+Use the 'omited_entries' attribute to view dropped enteries due to invalid sequences.
+
+Generating kinase-substrates sets
+  3: sign.logP.IL6_20min_over_0min
+165 entries were omitted due to invalid amino acids or characters.
+Use the 'omited_entries' attribute to view dropped enteries due to invalid sequences.
+
+Generating kinase-substrates sets
+  4: sign.logP.IL6_45min_over_0min
+165 entries were omitted due to invalid amino acids or characters.
+Use the 'omited_entries' attribute to view dropped enteries due to invalid sequences.
+
+Generating kinase-substrates sets
+  5: sign.logP.IL6_90min_over_0min
+165 entries were omitted due to invalid amino acids or characters.
+Use the 'omited_entries' attribute to view dropped enteries due to invalid sequences.
+
+Generating kinase-substrates sets
+  6: sign.logP.IL10_20min_over_0min
+165 entries were omitted due to invalid amino acids or characters.
+Use the 'omited_entries' attribute to view dropped enteries due to invalid sequences.
+
+Generating kinase-substrates sets
+  7: sign.logP.IL10_45min_over_0min
+165 entries were omitted due to invalid amino acids or characters.
+Use the 'omited_entries' attribute to view dropped enteries due to invalid sequences.
+
+Generating kinase-substrates sets
+  8: sign.logP.IL10_90min_over_0min
+165 entries were omitted due to invalid amino acids or characters.
+Use the 'omited_entries' attribute to view dropped enteries due to invalid sequences.
+
+Generating kinase-substrates sets
+==== Analysis End: Fri Sep 18 02:06:59 PM EDT 2026 ====

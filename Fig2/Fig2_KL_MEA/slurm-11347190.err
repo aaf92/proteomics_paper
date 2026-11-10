@@ -1,0 +1,58 @@
+Matplotlib is building the font cache; this may take a moment.
+Percentile scoring:   0%|          | 0/311 [00:00<?, ?it/s]Percentile scoring:   1%|          | 2/311 [00:00<00:15, 19.95it/s]Percentile scoring:  10%|█         | 32/311 [00:00<00:01, 181.93it/s]Percentile scoring:  20%|█▉        | 62/311 [00:00<00:01, 233.87it/s]Percentile scoring:  30%|██▉       | 92/311 [00:00<00:00, 257.79it/s]Percentile scoring:  39%|███▉      | 122/311 [00:00<00:00, 271.38it/s]Percentile scoring:  49%|████▉     | 152/311 [00:00<00:00, 279.42it/s]Percentile scoring:  59%|█████▊    | 182/311 [00:00<00:00, 284.61it/s]Percentile scoring:  68%|██████▊   | 212/311 [00:00<00:00, 287.67it/s]Percentile scoring:  78%|███████▊  | 242/311 [00:00<00:00, 289.96it/s]Percentile scoring:  87%|████████▋ | 272/311 [00:01<00:00, 291.40it/s]Percentile scoring:  97%|█████████▋| 302/311 [00:01<00:00, 292.13it/s]Percentile scoring: 100%|██████████| 311/311 [00:01<00:00, 270.53it/s]
+Percentile scoring:   0%|          | 0/78 [00:00<?, ?it/s]Percentile scoring: 100%|██████████| 78/78 [00:00<00:00, 21468.32it/s]
+  0%|          | 0/311 [00:00<?, ?it/s] 34%|███▍      | 107/311 [00:00<00:00, 1066.28it/s] 75%|███████▍  | 233/311 [00:00<00:00, 1176.03it/s]100%|██████████| 311/311 [00:00<00:00, 1184.01it/s]
+2026-09-18 14:01:01,262 [WARNING] Duplicated values found in preranked stats: 17.29% of genes
+The order of those genes will be arbitrary, which may produce unexpected results.
+  0%|          | 0/311 [00:00<?, ?it/s] 39%|███▊      | 120/311 [00:00<00:00, 1190.43it/s] 79%|███████▉  | 245/311 [00:00<00:00, 1222.88it/s]100%|██████████| 311/311 [00:00<00:00, 1225.71it/s]
+2026-09-18 14:01:22,968 [WARNING] Duplicated values found in preranked stats: 17.22% of genes
+The order of those genes will be arbitrary, which may produce unexpected results.
+  0%|          | 0/311 [00:00<?, ?it/s] 39%|███▊      | 120/311 [00:00<00:00, 1193.28it/s] 77%|███████▋  | 240/311 [00:00<00:00, 807.77it/s] 100%|██████████| 311/311 [00:00<00:00, 913.50it/s]
+2026-09-18 14:01:49,476 [WARNING] Duplicated values found in preranked stats: 17.25% of genes
+The order of those genes will be arbitrary, which may produce unexpected results.
+  0%|          | 0/311 [00:00<?, ?it/s] 39%|███▊      | 120/311 [00:00<00:00, 1196.19it/s] 79%|███████▉  | 245/311 [00:00<00:00, 1222.76it/s]100%|██████████| 311/311 [00:00<00:00, 1226.40it/s]
+2026-09-18 14:02:14,679 [WARNING] Duplicated values found in preranked stats: 17.21% of genes
+The order of those genes will be arbitrary, which may produce unexpected results.
+  0%|          | 0/311 [00:00<?, ?it/s] 39%|███▊      | 120/311 [00:00<00:00, 1195.82it/s] 79%|███████▉  | 245/311 [00:00<00:00, 1223.33it/s]100%|██████████| 311/311 [00:00<00:00, 1227.13it/s]
+2026-09-18 14:02:40,001 [WARNING] Duplicated values found in preranked stats: 17.23% of genes
+The order of those genes will be arbitrary, which may produce unexpected results.
+  0%|          | 0/311 [00:00<?, ?it/s] 39%|███▊      | 120/311 [00:00<00:00, 1190.60it/s] 79%|███████▉  | 246/311 [00:00<00:00, 1227.87it/s]100%|██████████| 311/311 [00:00<00:00, 1228.53it/s]
+2026-09-18 14:03:05,309 [WARNING] Duplicated values found in preranked stats: 17.23% of genes
+The order of those genes will be arbitrary, which may produce unexpected results.
+  0%|          | 0/311 [00:00<?, ?it/s] 39%|███▊      | 120/311 [00:00<00:00, 1189.51it/s] 79%|███████▉  | 246/311 [00:00<00:00, 1226.72it/s]100%|██████████| 311/311 [00:00<00:00, 1228.59it/s]
+2026-09-18 14:03:30,079 [WARNING] Duplicated values found in preranked stats: 17.25% of genes
+The order of those genes will be arbitrary, which may produce unexpected results.
+  0%|          | 0/311 [00:00<?, ?it/s] 38%|███▊      | 119/311 [00:00<00:00, 1180.35it/s] 78%|███████▊  | 244/311 [00:00<00:00, 1215.91it/s]100%|██████████| 311/311 [00:00<00:00, 1218.33it/s]
+2026-09-18 14:03:55,513 [WARNING] Duplicated values found in preranked stats: 17.19% of genes
+The order of those genes will be arbitrary, which may produce unexpected results.
+  0%|          | 0/311 [00:00<?, ?it/s] 38%|███▊      | 119/311 [00:00<00:00, 1181.55it/s] 78%|███████▊  | 244/311 [00:00<00:00, 1217.28it/s]100%|██████████| 311/311 [00:00<00:00, 1220.03it/s]
+2026-09-18 14:04:21,126 [WARNING] Duplicated values found in preranked stats: 17.22% of genes
+The order of those genes will be arbitrary, which may produce unexpected results.
+  0%|          | 0/78 [00:00<?, ?it/s]100%|██████████| 78/78 [00:00<00:00, 6401.14it/s]
+2026-09-18 14:04:45,744 [WARNING] Duplicated values found in preranked stats: 17.29% of genes
+The order of those genes will be arbitrary, which may produce unexpected results.
+  0%|          | 0/78 [00:00<?, ?it/s]100%|██████████| 78/78 [00:00<00:00, 6270.59it/s]
+2026-09-18 14:04:50,173 [WARNING] Duplicated values found in preranked stats: 17.22% of genes
+The order of those genes will be arbitrary, which may produce unexpected results.
+  0%|          | 0/78 [00:00<?, ?it/s]100%|██████████| 78/78 [00:00<00:00, 6543.64it/s]
+2026-09-18 14:04:54,502 [WARNING] Duplicated values found in preranked stats: 17.25% of genes
+The order of those genes will be arbitrary, which may produce unexpected results.
+  0%|          | 0/78 [00:00<?, ?it/s]100%|██████████| 78/78 [00:00<00:00, 6331.88it/s]
+2026-09-18 14:04:59,836 [WARNING] Duplicated values found in preranked stats: 17.21% of genes
+The order of those genes will be arbitrary, which may produce unexpected results.
+  0%|          | 0/78 [00:00<?, ?it/s]100%|██████████| 78/78 [00:00<00:00, 6584.86it/s]
+2026-09-18 14:05:03,881 [WARNING] Duplicated values found in preranked stats: 17.23% of genes
+The order of those genes will be arbitrary, which may produce unexpected results.
+  0%|          | 0/78 [00:00<?, ?it/s]100%|██████████| 78/78 [00:00<00:00, 6432.86it/s]
+2026-09-18 14:05:08,214 [WARNING] Duplicated values found in preranked stats: 17.23% of genes
+The order of those genes will be arbitrary, which may produce unexpected results.
+  0%|          | 0/78 [00:00<?, ?it/s]100%|██████████| 78/78 [00:00<00:00, 6293.27it/s]
+2026-09-18 14:05:12,594 [WARNING] Duplicated values found in preranked stats: 17.25% of genes
+The order of those genes will be arbitrary, which may produce unexpected results.
+  0%|          | 0/78 [00:00<?, ?it/s]100%|██████████| 78/78 [00:00<00:00, 6305.64it/s]
+2026-09-18 14:05:16,978 [WARNING] Duplicated values found in preranked stats: 17.19% of genes
+The order of those genes will be arbitrary, which may produce unexpected results.
+  0%|          | 0/78 [00:00<?, ?it/s]100%|██████████| 78/78 [00:00<00:00, 5720.41it/s]
+2026-09-18 14:05:21,339 [WARNING] Duplicated values found in preranked stats: 17.22% of genes
+The order of those genes will be arbitrary, which may produce unexpected results.
+DeprecationWarning: 'source deactivate' is deprecated. Use 'conda deactivate'.
